@@ -1,0 +1,118 @@
+warning: in the working copy of 'index.html', LF will be replaced by CRLF the next time Git touches it
+[1mdiff --git a/index.html b/index.html[m
+[1mindex 60ef724..4b56c20 100644[m
+[1m--- a/index.html[m
+[1m+++ b/index.html[m
+[36m@@ -13,12 +13,8 @@[m
+         <div class="container header-inner">[m
+             <a class="brand" href="./">[m
+                 <span class="brand-mark" aria-hidden="true">CSG</span>[m
+[31m-                <span>[m
+[31m-                    <strong>Clarity Systems Group</strong>[m
+[31m-                    <small>LLC</small>[m
+[31m-                </span>[m
+[32m+[m[32m                <span><strong>Clarity Systems Group</strong><small>LLC</small></span>[m
+             </a>[m
+[31m-[m
+             <nav class="site-nav" aria-label="Primary navigation">[m
+                 <a href="creator-architecture/">Creator Architecture</a>[m
+                 <a href="governed-content/">Governed Content</a>[m
+[36m@@ -27,42 +23,30 @@[m
+             </nav>[m
+         </div>[m
+     </header>[m
+[31m-[m
+     <main>[m
+         <section class="hero">[m
+             <div class="container hero-grid">[m
+                 <div>[m
+                     <p class="eyebrow">Governed systems for trustworthy influence</p>[m
+                     <h1>Scale the work without losing the source.</h1>[m
+[31m-                    <p class="hero-copy">[m
+[31m-                        Clarity Systems Group LLC designs content, knowledge, and[m
+[31m-                        decision workflows that preserve source integrity, voice[m
+[31m-                        fidelity, accountable review, and correction as output grows.[m
+[31m-                    </p>[m
+[31m-[m
+[32m+[m[32m                    <p class="hero-copy">Clarity Systems Group LLC designs content, knowledge, and decision workflows that preserve source integrity, voice fidelity, accountable review, and correction as output grows.</p>[m
+                     <div class="actions">[m
+                         <a class="button primary" href="creator-architecture/">Explore Creator Architecture</a>[m
+                         <a class="button secondary" href="about/">About the company</a>[m
+                     </div>[m
+                 </div>[m
+[31m-[m
+                 <aside class="principle-card" aria-label="Operating principle">[m
+                     <p class="card-label">Operating principle</p>[m
+[31m-                    <blockquote>[m
+[31m-                        The system should preserve the creator's meaning,[m
+[31m-                        not merely increase the creator's output.[m
+[31m-                    </blockquote>[m
+[32m+[m[32m                    <blockquote>The system should preserve the creator's meaning, not merely increase the creator's output.</blockquote>[m
+                 </aside>[m
+             </div>[m
+         </section>[m
+[31m-[m
+         <section class="section">[m
+             <div class="container">[m
+                 <div class="section-heading">[m
+                     <p class="eyebrow">Initial service pathways</p>[m
+                     <h2>From articulated values to governed execution</h2>[m
+                 </div>[m
+[31m-[m
+                 <div class="card-grid">[m
+                     <article class="service-card">[m
+                         <p class="card-number">01</p>[m
+[36m@@ -70,14 +54,12 @@[m
+                         <p>Turn experience, convictions, source material, and goals into a coherent content architecture.</p>[m
+                         <a href="creator-architecture/">View the process</a>[m
+                     </article>[m
+[31m-[m
+                     <article class="service-card">[m
+                         <p class="card-number">02</p>[m
+                         <h3>Governed Content</h3>[m
+                         <p>Preserve voice, evidence, accountability, and correction across platforms and formats.</p>[m
+                         <a href="governed-content/">Review the framework</a>[m
+                     </article>[m
+[31m-[m
+                     <article class="service-card">[m
+                         <p class="card-number">03</p>[m
+                         <h3>Bounded Pilots</h3>[m
+[36m@@ -89,18 +71,25 @@[m
+         </section>[m
+ [m
+         <section class="section section-muted">[m
+[32m+[m[32m            <div class="container narrow">[m
+[32m+[m[32m                <p class="eyebrow">Free technical resource</p>[m
+[32m+[m[32m                <h2>ChatGPT Direct Website Publishing Workflow</h2>[m
+[32m+[m[32m                <p class="large-copy">A practical guide to publishing from ChatGPT directly to a GitHub Pages website through bounded tool access, explicit permissions, metadata, verification, and release receipts.</p>[m
+[32m+[m[32m                <div class="actions">[m
+[32m+[m[32m                    <a class="button primary" href="resources/chatgpt-direct-website-publishing/">View the guide</a>[m
+[32m+[m[32m                    <a class="button secondary" href="downloads/chatgpt-direct-website-publishing-workflow.pdf" download>Download PDF</a>[m
+[32m+[m[32m                </div>[m
+[32m+[m[32m            </div>[m
+[32m+[m[32m        </section>[m
+[32m+[m
+[32m+[m[32m        <section class="section">[m
+             <div class="container narrow">[m
+                 <p class="eyebrow">Company position</p>[m
+                 <h2>Influence requires structure behind the message.</h2>[m
+[31m-                <p class="large-copy">[m
+[31m-                    Communication systems shape what survives, what changes,[m
+[31m-                    who approves it, and whether errors can be corrected.[m
+[31m-                    Clarity Systems Group makes those structures visible and governable.[m
+[31m-                </p>[m
+[32m+[m[32m                <p class="large-copy">Communication systems shape what survives, what changes, who approves it, and whether errors can be corrected. Clarity Systems Group makes those structures visible and governable.</p>[m
+             </div>[m
+         </section>[m
+     </main>[m
+[31m-[m
+     <footer class="site-footer">[m
+         <div class="container footer-inner">[m
+             <p>&copy; <span data-current-year>2026</span> Clarity Systems Group LLC.</p>[m
+[36m@@ -111,4 +100,4 @@[m
+         </div>[m
+     </footer>[m
+ </body>[m
+[31m-</html>[m
+\ No newline at end of file[m
+[32m+[m[32m</html>[m
